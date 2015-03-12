@@ -6,3 +6,5 @@ Want to embed the @TweetWallPro Social Wall on your website ? Copy/Paste the fol
 <div class="widget-twp" data-widget-name="bestartupmanifesto" widget-width="920" widget-height="518"></div>
 <script async src="http://www.tweetwallpro.com/widget/widget.js"></script>
 ````
+
+NB: the animation is compatible with a couple of resolutions. Contact me in case of problem @zorrobiwan
